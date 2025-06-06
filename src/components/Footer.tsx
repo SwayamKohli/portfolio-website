@@ -29,7 +29,7 @@ export default function Footer() {
 
                 {/* Copyright */}
                 <p className="mt-6 text-sm text-gray-500">
-                    © {new Date().getFullYear()} Swayam Kohli. Built with ❤️ using Next.js + Tailwind CSS.
+                    © {new Date().getFullYear()} Swayam Kohli. Built using Next.js + Tailwind CSS.
                 </p>
             </div>
         </footer>
