@@ -16,7 +16,7 @@ export default function Footer() {
 
                 {/* Quote */}
                 <p className="text-gray-400 italic mb-6">
-                    &quot;Code is like humor. When you have to explain it, it's bad.&quot; – Cory House
+                    &quot;Code is like humor. When you have to explain it, it is bad.&quot; – Cory House
                 </p>
 
                 {/* Back to Top */}

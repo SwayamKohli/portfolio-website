@@ -53,7 +53,7 @@ export default function Contact() {
                 {/* Quote */}
                 <div className="mt-12 text-center">
                     <blockquote className="text-gray-400 italic border-l-4 border-cyan-500 pl-4">
-                        &quot;Code is like humor. When you have to explain it, it's bad.&quot; – Cory House
+                        &quot;Code is like humor. When you have to explain it, it is bad.&quot; – Cory House
                     </blockquote>
                 </div>
 
