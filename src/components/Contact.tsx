@@ -49,23 +49,6 @@ export default function Contact() {
                         />
                     </a>
                 </div>
-
-                {/* Quote */}
-                <div className="mt-12 text-center">
-                    <blockquote className="text-gray-400 italic border-l-4 border-cyan-500 pl-4">
-                        &quot;Code is like humor. When you have to explain it, it is bad.&quot; – Cory House
-                    </blockquote>
-                </div>
-
-                {/* Back to Top */}
-                <div className="mt-12">
-                    <a
-                        href="#top"
-                        className="inline-block px-5 py-2 text-sm font-semibold text-gray-400 border border-gray-700 rounded-lg hover:bg-gray-800 transition"
-                    >
-                        Back to Top
-                    </a>
-                </div>
             </div>
         </section>
     );
