@@ -152,7 +152,7 @@ export default function Contact() {
                             </h3>
                             <p className="text-gray-300 text-lg max-w-2xl mx-auto leading-relaxed">
                                 Whether you have a project in mind, want to discuss opportunities, or just want to say hi,
-                                I&apos;d love to hear from you. Let's turn ideas into reality!
+                                I&apos;d love to hear from you. Let&apos;s turn ideas into reality!
                             </p>
                         </div>
 
