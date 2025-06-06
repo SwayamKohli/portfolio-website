@@ -25,12 +25,12 @@ export default function Footer() {
 
                     {/* Inspirational Quote with Better Styling */}
                     <div className="relative bg-gradient-to-r from-gray-800/50 to-gray-700/50 backdrop-blur-sm border border-gray-600/30 rounded-2xl p-8 mb-10 max-w-2xl mx-auto">
-                        <div className="absolute top-4 left-6 text-4xl text-cyan-400/30">"</div>
+                        <div className="absolute top-4 left-6 text-4xl text-cyan-400/30">&quot;</div>
                         <p className="text-gray-300 italic text-lg leading-relaxed pt-4">
                             Code is like humor. When you have to explain it, it is bad.
                         </p>
                         <p className="text-cyan-400 font-semibold mt-3 text-sm">— Cory House</p>
-                        <div className="absolute bottom-4 right-6 text-4xl text-cyan-400/30 rotate-180">"</div>
+                        <div className="absolute bottom-4 right-6 text-4xl text-cyan-400/30 rotate-180">&quot;</div>
                     </div>
 
                     {/* Enhanced Social Links */}

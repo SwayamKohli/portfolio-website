@@ -51,7 +51,7 @@ export default function About() {
                     </h2>
                     <div className="max-w-3xl mx-auto">
                         <p className="text-lg md:text-xl text-gray-300 mb-6 leading-relaxed">
-                            I'm currently in my 3rd year of Information Technology at Amity University, Noida.
+                            I&apos;m currently in my 3rd year of Information Technology at Amity University, Noida.
                             Passionate about Full Stack Development & solving real-world problems,
                             I lead the Amity Competitive Programming Club and enjoy participating in Hackathons and Coding Competitions.
                         </p>
@@ -139,7 +139,7 @@ export default function About() {
                     <div className="bg-gradient-to-r from-gray-800/50 to-gray-700/50 backdrop-blur-sm rounded-2xl p-8 border border-gray-700/50 max-w-2xl mx-auto">
                         <h3 className="text-xl font-semibold mb-4 text-white">Want to collaborate?</h3>
                         <p className="text-gray-300 mb-6">
-                            I'm always excited to work on innovative projects and connect with fellow developers.
+                            I&apos;m always excited to work on innovative projects and connect with fellow developers.
                         </p>
                         <a
                             href="#contact"

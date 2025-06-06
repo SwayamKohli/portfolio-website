@@ -176,7 +176,7 @@ export default function Projects() {
                     <div className="bg-gradient-to-r from-gray-900/50 to-gray-800/50 backdrop-blur-sm rounded-2xl p-8 border border-gray-700/50 max-w-2xl mx-auto">
                         <h3 className="text-xl font-semibold mb-4 text-white">Interested in collaborating?</h3>
                         <p className="text-gray-300 mb-6">
-                            I'm always open to working on exciting projects and contributing to open-source initiatives.
+                            I&apos;m always open to working on exciting projects and contributing to open-source initiatives.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center">
                             <a
@@ -194,7 +194,7 @@ export default function Projects() {
                                 href="#contact"
                                 className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-500 text-white font-semibold rounded-lg hover:from-cyan-400 hover:to-blue-400 transition-all duration-300 hover:shadow-lg hover:shadow-cyan-500/25"
                             >
-                                Let's Collaborate
+                                Let&apos;s Collaborate
                                 <svg className="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
                                 </svg>

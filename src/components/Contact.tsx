@@ -51,13 +51,13 @@ export default function Contact() {
                 {/* Section Header */}
                 <div className="text-center mb-16">
                     <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-500 inline-block text-transparent bg-clip-text relative">
-                        Let's Connect!
+                        Let&apos;s Connect!
                         <div className="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-24 h-1 bg-gradient-to-r from-cyan-400 to-blue-500 rounded-full"></div>
                     </h2>
                     <div className="max-w-3xl mx-auto space-y-4">
                         <p className="text-gray-300 text-lg md:text-xl leading-relaxed">
-                            I'm always open to collaborating on exciting projects, discussing tech innovations,
-                            or helping others grow in their development journey. Let's create something amazing together!
+                            I&apos;m always open to collaborating on exciting projects, discussing tech innovations,
+                            or helping others grow in their development journey. Let&apos;s create something amazing together!
                         </p>
                         <div className="flex justify-center items-center space-x-6 text-sm text-gray-400">
                             <div className="flex items-center">
@@ -152,7 +152,7 @@ export default function Contact() {
                             </h3>
                             <p className="text-gray-300 text-lg max-w-2xl mx-auto leading-relaxed">
                                 Whether you have a project in mind, want to discuss opportunities, or just want to say hi,
-                                I'd love to hear from you. Let's turn ideas into reality!
+                                I&apos;d love to hear from you. Let's turn ideas into reality!
                             </p>
                         </div>
 
