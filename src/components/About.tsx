@@ -9,7 +9,7 @@ export default function About() {
                 </h2>
 
                 <p className="text-lg text-gray-300 mb-10 leading-relaxed">
-                    I'm currently in my 3rd year of Information Technology at Amity University, Noida.
+                    I&apos;m currently in my 3rd year of Information Technology at Amity University, Noida.
                     Passionate about Full Stack Development & solving real-world problems,
                     I lead the Amity Competitive Programming Club and enjoy participating in Hackathons and Coding Competitions.
                 </p>

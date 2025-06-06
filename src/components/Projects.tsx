@@ -9,7 +9,7 @@ export default function Projects() {
                 </h2>
 
                 <p className="text-gray-400 mb-12 max-w-2xl mx-auto">
-                    Here are some of my favorite projects I've worked on — from full-stack apps to competitive programming solutions.
+                    Here are some of my favorite projects I have worked on — from full-stack apps to competitive programming solutions.
                 </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

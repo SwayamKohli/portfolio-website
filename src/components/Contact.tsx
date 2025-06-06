@@ -5,11 +5,11 @@ export default function Contact() {
         <section id="contact" className="py-16 px-6 bg-black text-white">
             <div className="max-w-4xl mx-auto text-center">
                 <h2 className="text-4xl font-bold mb-8 bg-gradient-to-r from-cyan-400 to-blue-500 inline-block text-transparent bg-clip-text">
-                    Let's Connect!
+                    Let&apos;s Connect!
                 </h2>
 
                 <p className="text-gray-300 mb-10 max-w-xl mx-auto">
-                    I'm always open to collaborating on exciting projects, discussing tech, or helping others grow.
+                    I&apos;m always open to collaborating on exciting projects, discussing tech, or helping others grow.
                     Feel free to reach out!
                 </p>
 
@@ -53,7 +53,7 @@ export default function Contact() {
                 {/* Quote */}
                 <div className="mt-12 text-center">
                     <blockquote className="text-gray-400 italic border-l-4 border-cyan-500 pl-4">
-                        "Code is like humor. When you have to explain it, it's bad." – Cory House
+                        &quot;Code is like humor. When you have to explain it, it's bad.&quot; – Cory House
                     </blockquote>
                 </div>
 
