@@ -13,7 +13,7 @@ export default function Contact() {
         },
         {
             name: "LinkedIn",
-            href: "https://linkedin.com/in/swayamkohli-939801292",
+            href: "https://www.linkedin.com/in/swayam-kohli-939801292/",
             icon: "💼",
             label: "Connect on LinkedIn",
             description: "Let's connect and grow our professional network",
@@ -35,7 +35,7 @@ export default function Contact() {
         { label: "Response Time", value: "< 24 hours", icon: "⚡" },
         { label: "Availability", value: "Open to opportunities", icon: "🟢" },
         { label: "Location", value: "Delhi, India", icon: "📍" },
-        { label: "Languages", value: "English, Hindi", icon: "🗣️" }
+        { label: "Languages", value: "English, Hindi, German", icon: "🗣️" }
     ];
 
     return (
@@ -172,7 +172,7 @@ export default function Contact() {
                             <span className="text-gray-400">or</span>
 
                             <a
-                                href="https://linkedin.com/in/swayamkohli-939801292"
+                                href="https://www.linkedin.com/in/swayam-kohli-939801292/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="group inline-flex items-center px-8 py-4 border-2 border-gray-600 text-gray-300 font-semibold rounded-lg hover:text-white hover:border-cyan-500 hover:shadow-lg hover:shadow-cyan-500/20 transition-all duration-300"

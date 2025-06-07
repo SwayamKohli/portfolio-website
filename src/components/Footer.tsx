@@ -46,7 +46,7 @@ export default function Footer() {
                         </a>
 
                         <a
-                            href="https://linkedin.com/in/swayamkohli-939801292"
+                            href="https://www.linkedin.com/in/swayam-kohli-939801292/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="group relative p-3 bg-gradient-to-br from-blue-500/20 to-blue-600/20 border border-blue-500/30 rounded-xl hover:from-blue-500/30 hover:to-blue-600/30 transition-all duration-300 hover:scale-110 hover:shadow-lg hover:shadow-blue-500/25"
@@ -86,7 +86,7 @@ export default function Footer() {
                         {/* Copyright */}
                         <p className="text-sm text-gray-400">
                             © {new Date().getFullYear()} <span className="text-cyan-400 font-semibold">Swayam Kohli</span>.
-                            Built with ❤️ using <span className="text-white">Next.js</span> + <span className="text-blue-400">Tailwind CSS</span>
+                            Built with <span className="text-white">Next.js</span> + <span className="text-blue-400">Tailwind CSS</span>
                         </p>
 
                         {/* Tech Stack Pills */}

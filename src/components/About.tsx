@@ -5,8 +5,7 @@ export default function About() {
         {
             title: "Education",
             items: [
-                "B.Tech IT, Amity University (2023–2027)",
-                "Class Representative (2023–Present)"
+                "B.Tech IT, Amity University (2023–2027)"
             ],
             gradient: "from-cyan-500/20 to-blue-500/20"
         },
@@ -14,7 +13,7 @@ export default function About() {
             title: "Leadership",
             items: [
                 "President – Amity Competitive Programming Club",
-                "Winner – Code Canvas 3.0"
+                "Class Representative (2023–Present)"
             ],
             gradient: "from-purple-500/20 to-pink-500/20"
         },
@@ -29,7 +28,7 @@ export default function About() {
         },
         {
             title: "Fun Fact",
-            content: "I debug with determination and solve problems with persistence! Coffee is my debugging companion ☕",
+            content: "I debug with determination and solve problems with persistence!",
             gradient: "from-orange-500/20 to-red-500/20"
         }
     ];
@@ -116,23 +115,43 @@ export default function About() {
 
                 {/* Skills badges */}
                 <div className="mt-16 text-center">
-                    <h3 className="text-2xl font-semibold mb-8 text-gray-300">Technologies I Work With</h3>
-                    <div className="flex flex-wrap justify-center gap-3 max-w-4xl mx-auto">
-                        {[
-                            'JavaScript', 'TypeScript', 'React', 'Next.js', 'Node.js',
-                            'Python', 'Java', 'C++', 'MongoDB', 'PostgreSQL',
-                            'AWS', 'Docker', 'Git', 'Tailwind CSS'
-                        ].map((tech, index) => (
-                            <span
-                                key={tech}
-                                className="px-4 py-2 bg-gray-800/80 text-gray-300 rounded-full text-sm font-medium border border-gray-700/50 hover:border-cyan-500/50 hover:text-white hover:bg-gray-700/80 transition-all duration-300 cursor-default"
-                                style={{ animationDelay: `${index * 0.05}s` }}
-                            >
-                                {tech}
-                            </span>
-                        ))}
+                    <h3 className="text-2xl font-semibold mb-8 text-gray-300">Tech Stack</h3>
+
+                    <div className="space-y-10 max-w-4xl mx-auto">
+                        {/* Languages */}
+                        <div>
+                            <h4 className="text-lg font-semibold mb-4 text-gray-400">Languages</h4>
+                            <div className="flex justify-center flex-wrap gap-4">
+                                <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark" alt="Languages" />
+                            </div>
+                        </div>
+
+                        {/* Frameworks & Libraries */}
+                        <div>
+                            <h4 className="text-lg font-semibold mb-4 text-gray-400">Frameworks & Libraries</h4>
+                            <div className="flex justify-center flex-wrap gap-4">
+                                <img src="https://skillicons.dev/icons?i=django,react,nodejs,bootstrap,vite,typescript&theme=dark" alt="Frameworks & Libraries" />
+                            </div>
+                        </div>
+
+                        {/* Tools & Technologies */}
+                        <div>
+                            <h4 className="text-lg font-semibold mb-4 text-gray-400">Tools & Technologies</h4>
+                            <div className="flex justify-center flex-wrap gap-4">
+                                <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools & Technologies" />
+                            </div>
+                        </div>
+
+                        {/* Databases */}
+                        <div>
+                            <h4 className="text-lg font-semibold mb-4 text-gray-400">Databases</h4>
+                            <div className="flex justify-center flex-wrap gap-4">
+                                <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase&theme=dark" alt="Databases" />
+                            </div>
+                        </div>
                     </div>
                 </div>
+
 
                 {/* Call to action */}
                 <div className="mt-16 text-center">
