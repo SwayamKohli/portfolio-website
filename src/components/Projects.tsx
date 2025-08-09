@@ -33,11 +33,6 @@ export default function Projects() {
             title: "Real-Time Traffic Management App",
             description: "Built with Kivy & Python for intelligent traffic flow management",
             achievement: "🚗 Traffic AI"
-        },
-        {
-            title: "Malware Classifier",
-            description: "Random Forest implementation achieving 99% accuracy in malware detection",
-            achievement: "🛡️ 99% Accuracy"
         }
     ];
 
